@@ -26,9 +26,6 @@ The goal of this project was to practice **CRUD operations (Create, Read, Update
 4. **PUT /users/1** – Update user details  
 5. **DELETE /users/1** – Delete a user  
 
-🔹 **Negative Tests** (examples):  
-- Fetch invalid user ID → Expect `404`  
-- Missing/invalid fields in POST request → Expect validation error  
 
 ---
 
