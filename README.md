@@ -41,13 +41,15 @@ All test cases (positive & negative) are documented in **Excel** with details:
 - Priority  
 - Notes/Screenshots  
 
-👉 [Link to Test Cases](./TestCases.xlsx)  
+👉 https://docs.google.com/spreadsheets/d/1KabdsxY02o2GS2thUQEYzngt4qWQDI78SfbIKeIpxZ0/edit?usp=sharing
 
 ---
 
 ## 📷 Screenshots
 Screenshots of Postman responses are included for reference.  
-👉 [See Screenshots Folder](./screenshots/)  
+
+👉  https://docs.google.com/spreadsheets/d/1KabdsxY02o2GS2thUQEYzngt4qWQDI78SfbIKeIpxZ0/edit?usp=sharing
+
 
 ---
 
@@ -62,7 +64,6 @@ Screenshots of Postman responses are included for reference.
 ## 🧑‍💻 Author
 **Shafiur Rahman**  
 - 💼 Junior QA Engineer (Fresher)  
-- 🌐 [LinkedIn Profile](https://www.linkedin.com/)  
-- 📧 Email: yourname@example.com  
+
 
 ---
